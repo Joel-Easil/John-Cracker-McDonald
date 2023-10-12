@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}  
+
+#header {
+	background-color: blueviolet;
+	background-image: url("content/header.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	overflow: auto;
+}
+
+.link {
+}
