@@ -151,6 +151,7 @@ section {
     text-decoration: none;
     color:#ffffff;
     font-size:12pt;
+    display: block;
 }
 
 .linkName {
